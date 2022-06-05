@@ -52,8 +52,10 @@ paru --noconfirm -S xfce-theme-greybird
 paru --noconfirm -S bibata-cursor-theme
 paru --noconfirm -S otf-font-awesome
 paru --noconfirm -S ttf-font-awesome
-mkdir ~/.config
-mv ~/koenos-arch/dotconfig/* ~/.config
+cd $builddir
+mkdir -p /home/$username/.config
+mv ~/KoenArch-BSPWM/dotconfig/* ~/.config
+mv ~/KoenArch-BSPWM/.* ~
 
 # Download Nordic Theme
 cd /usr/share/themes/
@@ -65,7 +67,3 @@ unzip FiraCode.zip -d /usr/share/fonts
 wget https://github.com/ryanoasis/nerd-fonts/releases/download/v1.1.0/Meslo.zip
 unzip Meslo.zip -d /usr/share/fonts
 fc-cache -vf
-
-#X Files
-mv ~/arch-koenos/.* ~
-
