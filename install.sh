@@ -17,35 +17,35 @@ echo -ne "
 "
 
 #Paru AUR Helper
-pacman --noconfirm -S --needed base-devel
+sudo pacman --noconfirm -S --needed base-devel
 git clone https://aur.archlinux.org/paru.git
 cd paru
 makepkg -si
 
 #Update and install base Packages
-pacman --noconfirm -Syu 
-pacman --noconfirm -S neofetch
-pacman --noconfirm -S htop
-pacman --noconfirm -S bspwm
-pacman --noconfirm -S sxhkd
-pacman --noconfirm -S polybar
-pacman --noconfirm -S rofi
-pacman --noconfirm -S picom
-pacman --noconfirm -S git
-pacman --noconfirm -S kitty
+sudo pacman --noconfirm -Syu
+sudo pacman --noconfirm -S neofetch
+sudo pacman --noconfirm -S htop
+sudo pacman --noconfirm -S bspwm
+sudo pacman --noconfirm -S sxhkd
+sudo pacman --noconfirm -S polybar
+sudo pacman --noconfirm -S rofi
+sudo pacman --noconfirm -S picom
+sudo pacman --noconfirm -S git
+sudo pacman --noconfirm -S kitty
 
 #Install Desktop apps
-pacman --noconfirm -S thunar
-pacman --noconfirm -S nitrogen
-pacman --noconfirm -S variety
-pacman --noconfirm -S lxappearance
-pacman --noconfirm -S pulseaudio
-pacman --noconfirm -S pavucontrol
-pacman --noconfirm -S sddm
-pacman --noconfirm -S rofi
+sudo pacman --noconfirm -S thunar
+sudo pacman --noconfirm -S nitrogen
+sudo pacman --noconfirm -S variety
+sudo pacman --noconfirm -S lxappearance
+sudo pacman --noconfirm -S pulseaudio
+sudo pacman --noconfirm -S pavucontrol
+sudo pacman --noconfirm -S sddm
+sudo pacman --noconfirm -S rofi
 
 #Setup SDDM
-systemctl enable sddm
+sudo systemctl --noconfirm enable sddm
 
 #Theming & Fonts
 paru --noconfirm -S xfce-theme-greybird
