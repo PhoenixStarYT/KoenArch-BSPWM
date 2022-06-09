@@ -15,10 +15,14 @@ echo -ne "
 ██║  ██╗╚██████╔╝███████╗██║ ╚████║╚██████╔╝███████║
 ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═══╝ ╚═════╝ ╚══════╝
 "
-
+#Theming & Fonts
+paru --noconfirm -S xfce-theme-greybird
+paru --noconfirm -S bibata-cursor-theme
+paru --noconfirm -S otf-font-awesome
+paru --noconfirm -S ttf-font-awesome
 cd $builddir
 mkdir -p /home/$username/.config
-cd KoenArch-BSPWM
+cd koenarch-bspwm
 mv dotconfig/* ~/.config
 mv .* ~
 
