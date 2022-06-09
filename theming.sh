@@ -18,6 +18,7 @@ echo -ne "
 #Theming & Fonts
 paru --noconfirm -S xfce-theme-greybird
 paru --noconfirm -S bibata-cursor-theme
+sudo pacman --noconfirm -S breeze
 paru --noconfirm -S otf-font-awesome
 paru --noconfirm -S ttf-font-awesome
 cd $builddir
