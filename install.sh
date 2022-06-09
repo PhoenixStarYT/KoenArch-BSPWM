@@ -35,7 +35,7 @@ sudo pacman --noconfirm -S git
 sudo pacman --noconfirm -S kitty
 sudo pacman --noconfirm -S wget
 sudo pacman --noconfirm -S unzip
-
+sudo pacman --noconfirm -S nano
 #Install Desktop apps
 sudo pacman --noconfirm -S thunar
 sudo pacman --noconfirm -S nitrogen
