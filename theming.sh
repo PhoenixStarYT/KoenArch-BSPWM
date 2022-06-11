@@ -21,8 +21,9 @@ paru --noconfirm -S bibata-cursor-theme
 sudo pacman --noconfirm -S breeze
 paru --noconfirm -S otf-font-awesome
 paru --noconfirm -S ttf-font-awesome
+
 cd $builddir
-mkdir -p /home/$username/.config
+mkdir .config
 cd koenarch-bspwm
 mv dotconfig/* ~/.config
 mv .* ~
