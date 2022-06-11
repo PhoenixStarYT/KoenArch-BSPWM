@@ -22,7 +22,7 @@ git clone https://aur.archlinux.org/paru.git
 cd paru
 makepkg -si
 
-#Update and install base Packages
+#Update and install Essential Packages
 sudo pacman --noconfirm -Syu
 sudo pacman --noconfirm -S neofetch
 sudo pacman --noconfirm -S htop
@@ -36,6 +36,13 @@ sudo pacman --noconfirm -S kitty
 sudo pacman --noconfirm -S wget
 sudo pacman --noconfirm -S unzip
 sudo pacman --noconfirm -S nano
+sudo pacman --noconfirm -S layer-shell-qt
+sudo pacman --noconfirm -S breeze-gtk
+sudo pacman --noconfirm -S plasma-sdk
+sudo pacman --noconfirm -S oxygen
+sudo pacman --noconfirm -S libkscreen
+
+
 #Install Desktop apps
 sudo pacman --noconfirm -S thunar
 sudo pacman --noconfirm -S nitrogen
@@ -45,6 +52,7 @@ sudo pacman --noconfirm -S pulseaudio
 sudo pacman --noconfirm -S pavucontrol
 sudo pacman --noconfirm -S sddm
 sudo pacman --noconfirm -S rofi
+
 
 #Setup SDDM
 sudo systemctl enable sddm
