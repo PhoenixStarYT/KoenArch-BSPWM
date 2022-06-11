@@ -36,12 +36,7 @@ sudo pacman --noconfirm -S kitty
 sudo pacman --noconfirm -S wget
 sudo pacman --noconfirm -S unzip
 sudo pacman --noconfirm -S nano
-sudo pacman --noconfirm -S layer-shell-qt
-sudo pacman --noconfirm -S breeze-gtk
-sudo pacman --noconfirm -S plasma-sdk
-sudo pacman --noconfirm -S oxygen
-sudo pacman --noconfirm -S libkscreen
-
+sudo pacman --noconfirm -S plasma
 
 #Install Desktop apps
 sudo pacman --noconfirm -S thunar
