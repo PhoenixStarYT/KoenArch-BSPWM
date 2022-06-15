@@ -39,7 +39,7 @@ sudo pacman --noconfirm -S nano
 sudo pacman --noconfirm -S plasma
 
 #Install Desktop apps
-sudo pacman --noconfirm -S thunar
+sudo pacman --noconfirm -S nautilus
 sudo pacman --noconfirm -S nitrogen
 sudo pacman --noconfirm -S variety
 sudo pacman --noconfirm -S lxappearance
@@ -47,7 +47,7 @@ sudo pacman --noconfirm -S pulseaudio
 sudo pacman --noconfirm -S pavucontrol
 sudo pacman --noconfirm -S sddm
 sudo pacman --noconfirm -S rofi
-
+sudo pacman --noconfirm -S firefox
 
 #Setup SDDM
 sudo systemctl enable sddm
