@@ -313,7 +313,7 @@ globalkeys = gears.table.join(
     -- Rofi
     awful.key({ modkey },            "r",     function () 
     awful.util.spawn("rofi -show drun")  end,
-              {description = "run DMenu", group = "launcher"}),
+              {description = "run Rofi", group = "launcher"}),
 
     -- File Manager
     awful.key({ modkey },            "e",     function () 

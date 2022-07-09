@@ -37,6 +37,7 @@ sudo pacman --noconfirm -S wget
 sudo pacman --noconfirm -S unzip
 sudo pacman --noconfirm -S nano
 sudo pacman --noconfirm -S plasma
+sudo pacman --noconfirm -S awesome
 
 #Install Desktop apps
 sudo pacman --noconfirm -S nautilus
