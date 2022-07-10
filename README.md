@@ -43,7 +43,7 @@ WARNING: When prompted to replace .. just type "n" and press Return/Enter. Repla
 # Credits
 ## BSPWM Configuration
 Chris Titus Tech on YouTube
-##Wallpapers
+## Wallpapers
 
 Unsplash
 The Computer Clan
