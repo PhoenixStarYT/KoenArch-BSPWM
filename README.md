@@ -45,9 +45,9 @@ WARNING: When prompted to replace .. just type "n" and press Return/Enter. Repla
 Chris Titus Tech on YouTube
 ## Wallpapers
 
-Unsplash
-The Computer Clan
-NinnyDraws
-Dbleki,
-Wishing Star
-MKBHD
+Unsplash;
+The Computer Clan;
+NinnyDraws;
+Dbleki;
+Wishing Star;
+MKBHD;
