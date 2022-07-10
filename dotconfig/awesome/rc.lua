@@ -313,17 +313,17 @@ globalkeys = gears.table.join(
     -- Rofi
     awful.key({ modkey },            "r",     function () 
     awful.util.spawn("rofi -show drun")  end,
-              {description = "run Rofi", group = "launcher"}),
+              {description = "run Application Launcher", group = "launcher"}),
 
     -- File Manager
     awful.key({ modkey },            "e",     function () 
-    awful.util.spawn("thunar")  end,
-              {description = "run Thunar", group = "launcher"}),
+    awful.util.spawn("nautilus")  end,
+              {description = "run file manager", group = "launcher"}),
 
     -- Webbrowser
     awful.key({ modkey },            "b",     function () 
-    awful.util.spawn("brave-browser")  end,
-              {description = "run Thunar", group = "launcher"}),
+    awful.util.spawn("firefox")  end,
+              {description = "run webbrowser", group = "launcher"}),
 
     awful.key({ modkey }, "x",
               function ()

@@ -16,7 +16,7 @@ super + Escape
 
 # My program Hotkeys
 super + b
-	brave-browser-stable
+	firefox
 
 super + p 
 	flameshot full -p /media/drive/Screenshots
