@@ -19,19 +19,19 @@ During the installation process, you will be prompted to put in your password be
 
 ## List of Apps to be installed
 
-Awesome (Window Manager)
-Neofetch
-BSPWM (Window Manager)
-Nautilus (File Explorer)
-Firefox
-KDE Plasma (Desktop Environment)
-Nitrogen (Wallpaper Manager)
-Variety (Wallpaper Manager)
-LXAppearence (Look and Feel)
-Pavucontrol (Audio settings)
-Polybar (Top bar BSPWM)
-Rofi (Application Launcher)
-SDDM (Login Manager)
+Awesome (Window Manager),
+Neofetch,
+BSPWM (Window Manager),
+Nautilus (File Explorer),
+Firefox,
+KDE Plasma (Desktop Environment),
+Nitrogen (Wallpaper Manager),
+Variety (Wallpaper Manager),
+LXAppearence (Look and Feel),
+Pavucontrol (Audio settings),
+Polybar (Top bar BSPWM),
+Rofi (Application Launcher),
+SDDM (Login Manager),
 ## Theming BSPWM
 
 For theming, you want to run the following command:
@@ -45,9 +45,9 @@ WARNING: When prompted to replace .. just type "n" and press Return/Enter. Repla
 Chris Titus Tech on YouTube
 ## Wallpapers
 
-Unsplash
-The Computer Clan
-NinnyDraws
-Dbleki
-Wishing Star
-MKBHD
+Unsplash,
+The Computer Clan,
+NinnyDraws,
+Dbleki,
+Wishing Star,
+MKBHD,
