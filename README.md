@@ -36,7 +36,7 @@ SDDM (Login Manager),
 
 For theming, you want to run the following command:
 ```bash
-sudo theming.sh
+./theming
 ```
 WARNING: When prompted to replace .. just type "n" and press Return/Enter. Replacing this will nuke your system.
 
