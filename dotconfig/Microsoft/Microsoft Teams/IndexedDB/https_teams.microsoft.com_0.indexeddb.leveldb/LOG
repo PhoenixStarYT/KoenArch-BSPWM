@@ -1,0 +1,7 @@
+2023/12/06-11:22:35.020 362 Reusing MANIFEST /home/koen/.config/Microsoft/Microsoft Teams/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/12/06-11:22:35.020 362 Recovering log #99
+2023/12/06-11:22:35.021 362 Reusing old log /home/koen/.config/Microsoft/Microsoft Teams/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/000099.log 
+2023/12/06-11:22:37.068 41b Compacting 1@1 + 1@2 files
+2023/12/06-11:22:37.124 41b Generated table #102@1: 10211 keys, 1869279 bytes
+2023/12/06-11:22:37.124 41b Compacted 1@1 + 1@2 files => 1869279 bytes
+2023/12/06-11:22:37.132 41b compacted to: files[ 0 0 1 0 0 0 0 ]

@@ -1,0 +1,29 @@
+2023-07-29T18:12:36.059Z - error: [ui] Error getting token for 'GitHub - https://api.github.com'. Skipping.
+Error: The name org.freedesktop.secrets was not provided by any .service files
+2023-07-29T18:12:36.105Z - info: [ui] createOwnerKey: Updating 1 owners with keys
+2023-07-29T18:12:36.114Z - info: [ui] [AppStore] loading 1 repositories from store
+2023-07-29T18:12:36.256Z - info: [ui] launching: 3.2.5-linux1 (Linux 6.4.6-arch1-1)
+2023-07-29T18:12:36.258Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2023-07-29T18:12:36.739Z - info: [ui] Stats reported.
+2023-07-29T18:13:01.308Z - info: [ui] [SignInStore] initializing OAuth flow
+2023-07-29T18:13:01.312Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo%20user%20workflow&state=d25590f8-222e-48c0-8065-8a33ec82f5ba
+2023-07-29T18:13:05.353Z - info: [main] Received possible protocol arguments: 3
+2023-07-29T18:13:05.354Z - info: [main] Processing protocol url
+2023-07-29T18:13:05.354Z - info: [ui] [Dispatcher] requesting authenticated user
+2023-07-29T18:13:05.459Z - info: [main] Received possible protocol arguments: 2
+2023-07-29T18:13:05.464Z - info: [main] Processing protocol url
+2023-07-29T18:13:06.192Z - info: [ui] [SignInStore] account resolved
+2023-07-29T18:13:06.192Z - info: [ui] [AppStore] adding account PhoenixStarYT (Koen Kist (PhoenixStarYT)) to store
+2023-07-29T18:13:06.198Z - error: [ui] Error adding account 'PhoenixStarYT'
+Error: The name org.freedesktop.secrets was not provided by any .service files
+2023-07-29T18:13:21.338Z - info: [ui] [SignInStore] initializing OAuth flow
+2023-07-29T18:13:21.348Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo%20user%20workflow&state=9fcae2cc-0462-422b-9e3f-19939fb226c9
+2023-07-29T18:13:27.043Z - info: [main] Received possible protocol arguments: 3
+2023-07-29T18:13:27.043Z - info: [main] Processing protocol url
+2023-07-29T18:13:27.044Z - info: [ui] [Dispatcher] requesting authenticated user
+2023-07-29T18:13:27.127Z - info: [main] Received possible protocol arguments: 2
+2023-07-29T18:13:27.131Z - info: [main] Processing protocol url
+2023-07-29T18:13:27.797Z - info: [ui] [SignInStore] account resolved
+2023-07-29T18:13:27.797Z - info: [ui] [AppStore] adding account PhoenixStarYT (Koen Kist (PhoenixStarYT)) to store
+2023-07-29T18:13:27.802Z - error: [ui] Error adding account 'PhoenixStarYT'
+Error: The name org.freedesktop.secrets was not provided by any .service files

@@ -1,0 +1,31 @@
+2023/08/10-09:23:35.003 1555 Reusing MANIFEST /home/koen/.config/whatsapp-nativefier-d40211/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/10-09:23:35.003 1555 Recovering log #159
+2023/08/10-09:23:35.031 1555 Reusing old log /home/koen/.config/whatsapp-nativefier-d40211/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000159.log 
+2023/08/10-09:23:56.538 1558 Level-0 table #168: started
+2023/08/10-09:23:56.581 1558 Level-0 table #168: 1436189 bytes OK
+2023/08/10-09:23:56.589 1558 Delete type=0 #159
+2023/08/10-09:23:56.837 1558 Compacting 1@1 + 5@2 files
+2023/08/10-09:23:56.937 1558 Generated table #169@1: 76767 keys, 2220824 bytes
+2023/08/10-09:23:57.000 1558 Generated table #170@1: 20293 keys, 2234336 bytes
+2023/08/10-09:23:57.060 1558 Generated table #171@1: 18871 keys, 2219560 bytes
+2023/08/10-09:23:57.152 1558 Generated table #172@1: 79375 keys, 2222314 bytes
+2023/08/10-09:23:57.164 1558 Generated table #173@1: 7630 keys, 174389 bytes
+2023/08/10-09:23:57.164 1558 Compacted 1@1 + 5@2 files => 9071423 bytes
+2023/08/10-09:23:57.167 1558 compacted to: files[ 0 0 5 0 0 0 0 ]
+2023/08/10-09:24:00.692 1546 Level-0 table #175: started
+2023/08/10-09:24:00.732 1546 Level-0 table #175: 1214490 bytes OK
+2023/08/10-09:24:00.735 1546 Delete type=2 #168
+2023/08/10-09:24:00.735 1546 Delete type=2 #164
+2023/08/10-09:24:00.735 1546 Delete type=0 #167
+2023/08/10-09:24:00.735 1546 Delete type=2 #161
+2023/08/10-09:24:00.735 1546 Delete type=2 #162
+2023/08/10-09:24:00.735 1546 Delete type=2 #165
+2023/08/10-09:24:00.735 1546 Delete type=2 #163
+2023/08/10-09:24:00.738 1558 Compacting 1@1 + 5@2 files
+2023/08/10-09:24:00.817 1558 Generated table #176@1: 68558 keys, 2209335 bytes
+2023/08/10-09:24:00.875 1558 Generated table #177@1: 31325 keys, 2242903 bytes
+2023/08/10-09:24:00.925 1558 Generated table #178@1: 17421 keys, 2210688 bytes
+2023/08/10-09:24:01.002 1558 Generated table #179@1: 66162 keys, 2217304 bytes
+2023/08/10-09:24:01.035 1558 Generated table #180@1: 24665 keys, 548783 bytes
+2023/08/10-09:24:01.035 1558 Compacted 1@1 + 5@2 files => 9429013 bytes
+2023/08/10-09:24:01.045 1558 compacted to: files[ 0 0 5 0 0 0 0 ]

@@ -1,0 +1,18 @@
+[ExtractDialog]
+1920x1080 screen: Window-Maximized=true
+DirHistory[$e]=/run/media/koen/SHARE/roms/psx/
+
+[General]
+LockSidebar=true
+ShowSidebar=true
+
+[KFileDialog Settings]
+Recent Files[$e]=file:///run/media/koen/SHARE/roms/psx,file:///run/media/koen/SHARE/roms/psx
+Recent URLs[$e]=file:///run/media/koen/SHARE/roms/psx/
+detailViewIconSize=16
+
+[MainWindow]
+1920x1080 screen: Window-Maximized=true
+State=AAAA/wAAAAD9AAAAAQAAAAEAAAClAAAB2/wCAAAAAfsAAAAWAGEAcgBrAF8AcwBpAGQAZQBiAGEAcgEAAAAlAAAB2wAAAHAA///+AAABKwAAAdsAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+StatusBar=Disabled
+ToolBarsMovable=Disabled

@@ -1,0 +1,19 @@
+# ~/.config/hyprpaper/config.toml
+
+# Path to the directory containing your wallpaper images
+wallpaper_directory = "/home/koen/wallpapers"
+
+# Set the wallpaper style (options: "center", "scale", "aspect", "fill", "tile", etc.)
+style = "fill"
+
+# Set the default wallpaper filename
+d#efault_wallpaper = "default.jpg"
+
+# Enable random wallpaper change (options: true or false)
+randomize_wallpapers = true
+
+# Set the time interval in seconds for automatic wallpaper change (if randomize_wallpapers is true)
+change_interval = 1800  # 30 minutes
+
+# Other options can be added based on the capabilities of Hyprpaper and your preferences.
+

@@ -1,0 +1,7 @@
+2023/12/01-14:25:01.249 3c7 Reusing MANIFEST /home/koen/.config/Microsoft/Microsoft Teams/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/12/01-14:25:01.249 3c7 Recovering log #95
+2023/12/01-14:25:01.249 3c7 Reusing old log /home/koen/.config/Microsoft/Microsoft Teams/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/000095.log 
+2023/12/01-14:58:40.740 43e Level-0 table #100: started
+2023/12/01-14:58:40.760 43e Level-0 table #100: 1007801 bytes OK
+2023/12/01-14:58:40.767 43e Delete type=0 #95
+2023/12/01-14:58:40.768 43e Manual compaction at level-0 from '\x00F\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00G\x00\x00\x00' @ 0 : 0; will stop at (end)

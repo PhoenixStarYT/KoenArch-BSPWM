@@ -16,11 +16,11 @@ echo -ne "
 ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═══╝ ╚═════╝ ╚══════╝
 "
 #Theming & Fonts
-paru --noconfirm -S xfce-theme-greybird
-paru --noconfirm -S bibata-cursor-theme
-sudo pacman --noconfirm -S breeze
-paru --noconfirm -S otf-font-awesome
-paru --noconfirm -S ttf-font-awesome
+yay -S xfce-theme-greybird
+yay -S bibata-cursor-theme
+yay -S breeze
+yay -S otf-font-awesome
+yay -S ttf-font-awesome
 
 cd $builddir
 mkdir .config

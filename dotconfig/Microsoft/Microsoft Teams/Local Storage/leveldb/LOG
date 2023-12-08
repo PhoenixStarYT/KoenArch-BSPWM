@@ -1,0 +1,8 @@
+2023/12/06-11:22:27.589 360 Reusing MANIFEST /home/koen/.config/Microsoft/Microsoft Teams/Local Storage/leveldb/MANIFEST-000001
+2023/12/06-11:22:27.594 360 Recovering log #124
+2023/12/06-11:22:27.596 360 Level-0 table #127: started
+2023/12/06-11:22:27.609 360 Level-0 table #127: 85110 bytes OK
+2023/12/06-11:22:27.614 360 Delete type=0 #124
+2023/12/06-11:23:30.603 5ab Level-0 table #130: started
+2023/12/06-11:23:30.610 5ab Level-0 table #130: 121235 bytes OK
+2023/12/06-11:23:30.613 5ab Delete type=0 #128

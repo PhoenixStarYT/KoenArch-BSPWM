@@ -1,0 +1,27 @@
+2023/12/01-14:24:53.659 32b Reusing MANIFEST /home/koen/.config/Microsoft/Microsoft Teams/Local Storage/leveldb/MANIFEST-000001
+2023/12/01-14:24:53.660 32b Recovering log #111
+2023/12/01-14:24:53.660 32b Reusing old log /home/koen/.config/Microsoft/Microsoft Teams/Local Storage/leveldb/000111.log 
+2023/12/01-14:25:00.049 43d Level-0 table #116: started
+2023/12/01-14:25:00.070 43d Level-0 table #116: 504813 bytes OK
+2023/12/01-14:25:00.072 43d Delete type=0 #111
+2023/12/01-14:58:36.225 43d Level-0 table #118: started
+2023/12/01-14:58:36.241 43d Level-0 table #118: 165198 bytes OK
+2023/12/01-14:58:36.249 43d Delete type=0 #115
+2023/12/01-15:27:07.135 43d Level-0 table #120: started
+2023/12/01-15:27:07.151 43d Level-0 table #120: 252952 bytes OK
+2023/12/01-15:27:07.159 43d Delete type=0 #117
+2023/12/01-16:06:23.751 43d Level-0 table #122: started
+2023/12/01-16:06:23.756 43d Level-0 table #122: 85107 bytes OK
+2023/12/01-16:06:23.760 43d Delete type=0 #119
+2023/12/01-16:06:23.761 43d Compacting 4@0 + 1@1 files
+2023/12/01-16:06:23.790 43d Generated table #123@0: 274 keys, 856688 bytes
+2023/12/01-16:06:23.790 43d Compacted 4@0 + 1@1 files => 856688 bytes
+2023/12/01-16:06:23.797 43d compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/12/01-16:06:23.797 43d Delete type=2 #116
+2023/12/01-16:06:23.797 43d Delete type=2 #118
+2023/12/01-16:06:23.797 43d Delete type=2 #122
+2023/12/01-16:06:23.797 43d Delete type=2 #113
+2023/12/01-16:06:23.797 43d Delete type=2 #120
+2023/12/01-16:41:07.018 43d Level-0 table #125: started
+2023/12/01-16:41:07.022 43d Level-0 table #125: 116385 bytes OK
+2023/12/01-16:41:07.025 43d Delete type=0 #121

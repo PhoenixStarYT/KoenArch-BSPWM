@@ -1,0 +1,108 @@
+2023-12-06T10:39:09.533Z - info: [ui] [AppStore] loading 1 repositories from store
+2023-12-06T10:39:09.656Z - info: [ui] launching: 3.3.3-linux2 (Linux 6.6.4-arch1-1)
+2023-12-06T10:39:09.665Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2023-12-06T10:39:10.350Z - info: [ui] Stats reported.
+2023-12-06T10:39:24.285Z - info: [ui] [AppStore.getAccountForRemoteURL] no generic credentials found for 'https://github.com/PhoenixStarYT/koenos-debian.git'
+2023-12-06T10:39:38.747Z - info: [ui] Executing clone: git -c credential.helper= -c init.defaultBranch=main clone --recursive --progress -- https://github.com/PhoenixStarYT/koenos-debian.git /home/koen/koenos-debian (took 14.421s)
+2023-12-06T10:41:55.886Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 1 repositories took 3.0s of which 29.2s paused, total 32.1s
+2023-12-06T10:44:24.813Z - info: [ui] Executing unstageAll: git reset -- . (took 1.223s)
+2023-12-06T10:45:54.588Z - info: [ui] Executing updateIndex: git update-index --add --remove --replace -z --stdin (took 89.761s)
+2023-12-06T10:45:55.042Z - error: [ui] `git commit -F -` exited with an unexpected code: 128.
+stderr:
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'koen@archlinux.(none)')
+
+2023-12-06T10:45:55.043Z - info: [ui] [Timing] Action 'create commit' for 'phoenixstaryt/koenos-debian' took 93.024s
+2023-12-06T10:46:37.057Z - info: [ui] [SignInStore] initializing OAuth flow
+2023-12-06T10:46:37.062Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo%20user%20workflow&state=6a056568-014d-44d3-bb1a-a3282fe4d531
+2023-12-06T10:47:00.534Z - info: [main] Received possible protocol arguments: 3
+2023-12-06T10:47:00.541Z - info: [main] Processing protocol url
+2023-12-06T10:47:00.559Z - info: [ui] [Dispatcher] requesting authenticated user
+2023-12-06T10:47:00.912Z - info: [main] Received possible protocol arguments: 2
+2023-12-06T10:47:00.926Z - info: [main] Processing protocol url
+2023-12-06T10:47:01.641Z - info: [ui] [SignInStore] account resolved
+2023-12-06T10:47:01.651Z - info: [ui] [AppStore] adding account PhoenixStarYT (Koen Kist (PhoenixStarYT)) to store
+2023-12-06T10:47:01.721Z - error: [ui] Error adding account 'PhoenixStarYT'
+Error: The name org.freedesktop.secrets was not provided by any .service files
+2023-12-06T10:47:15.375Z - info: [ui] [SignInStore] initializing OAuth flow
+2023-12-06T10:47:15.389Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo%20user%20workflow&state=27f06648-f56d-47ca-b754-27ac682257fe
+2023-12-06T10:47:19.336Z - info: [main] Received possible protocol arguments: 3
+2023-12-06T10:47:19.343Z - info: [main] Processing protocol url
+2023-12-06T10:47:19.343Z - info: [ui] [Dispatcher] requesting authenticated user
+2023-12-06T10:47:19.596Z - info: [main] Received possible protocol arguments: 2
+2023-12-06T10:47:19.610Z - info: [main] Processing protocol url
+2023-12-06T10:47:20.213Z - info: [ui] [SignInStore] account resolved
+2023-12-06T10:47:20.213Z - info: [ui] [AppStore] adding account PhoenixStarYT (Koen Kist (PhoenixStarYT)) to store
+2023-12-06T10:47:20.219Z - error: [ui] Error adding account 'PhoenixStarYT'
+Error: The name org.freedesktop.secrets was not provided by any .service files
+2023-12-06T10:48:40.470Z - info: [ui] Executing updateIndex: git update-index --add --remove --replace -z --stdin (took 12.656s)
+2023-12-06T10:48:40.654Z - error: [ui] `git commit -F -` exited with an unexpected code: 128.
+stderr:
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'koen@archlinux.(none)')
+
+2023-12-06T10:48:40.655Z - info: [ui] [Timing] Action 'create commit' for 'phoenixstaryt/koenos-debian' took 14.263s
+2023-12-06T10:50:33.980Z - info: [ui] Executing updateIndex: git update-index --add --remove --replace -z --stdin (took 11.460s)
+2023-12-06T10:50:35.413Z - info: [ui] Executing createCommit: git commit -F - (took 1.421s)
+2023-12-06T10:50:35.672Z - info: [ui] [Timing] Action 'create commit' for 'phoenixstaryt/koenos-debian' took 14.529s
+2023-12-06T10:50:35.787Z - error: [ui] Could not load new contents for syntax highlighting
+Error: EISDIR: illegal operation on a directory, read
+2023-12-06T10:51:45.909Z - error: [ui] `git commit -F -` exited with an unexpected code: 1.
+stdout:
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	dotconfig/hyprland/
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+2023-12-06T10:51:45.926Z - info: [ui] [Timing] Action 'create commit' for 'phoenixstaryt/koenos-debian' took 0.281s
+2023-12-06T10:52:08.949Z - info: [ui] [AppStore] adding repository at /home/koen/koenarch-bspwm to store
+2023-12-06T10:56:39.834Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 2 repositories took 2.4s of which 0.0s paused, total 2.4s
+2023-12-06T10:56:46.901Z - info: [ui] Executing unstageAll: git reset -- . (took 1.273s)
+2023-12-06T10:58:12.541Z - info: [ui] Executing updateIndex: git update-index --add --remove --replace -z --stdin (took 85.629s)
+2023-12-06T10:58:25.959Z - info: [ui] Executing createCommit: git commit -F - (took 13.405s)
+2023-12-06T10:58:26.275Z - info: [ui] [Timing] Action 'create commit' for 'koenarch-bspwm' took 101.859s
+2023-12-06T10:58:26.397Z - error: [ui] Could not load new contents for syntax highlighting
+Error: EISDIR: illegal operation on a directory, read
+2023-12-06T11:09:11.647Z - info: [ui] [Timing] Action 'create commit' for 'koenarch-bspwm' took 0.346s
+2023-12-06T11:09:11.691Z - error: [ui] Could not load new contents for syntax highlighting
+Error: EISDIR: illegal operation on a directory, read
+2023-12-06T11:09:21.168Z - error: [ui] `git commit -F -` exited with an unexpected code: 1.
+stdout:
+On branch main
+Your branch is ahead of 'origin/main' by 2 commits.
+  (use "git push" to publish your local commits)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	dotconfig/hyprland/
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+2023-12-06T11:09:21.179Z - info: [ui] [Timing] Action 'create commit' for 'koenarch-bspwm' took 0.205s

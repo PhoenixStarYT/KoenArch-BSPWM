@@ -1,0 +1,71 @@
+2023-12-08T12:22:28.412Z - info: [ui] [AppStore] loading 2 repositories from store
+2023-12-08T12:22:29.126Z - error: [ui] Could not load new contents for syntax highlighting
+Error: EISDIR: illegal operation on a directory, read
+2023-12-08T12:22:29.401Z - info: [ui] launching: 3.3.3-linux2 (Linux 6.6.4-arch1-1)
+2023-12-08T12:22:29.402Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2023-12-08T12:22:29.845Z - info: [ui] Stats reported.
+2023-12-08T12:22:45.429Z - info: [ui] [SignInStore] initializing OAuth flow
+2023-12-08T12:22:45.433Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo%20user%20workflow&state=e7d3d3cf-32cb-4a85-9a52-e22f03d34065
+2023-12-08T12:22:49.488Z - info: [main] Received possible protocol arguments: 3
+2023-12-08T12:22:49.488Z - info: [main] Processing protocol url
+2023-12-08T12:22:49.492Z - info: [ui] [Dispatcher] requesting authenticated user
+2023-12-08T12:22:49.960Z - info: [main] Received possible protocol arguments: 2
+2023-12-08T12:22:49.980Z - info: [main] Processing protocol url
+2023-12-08T12:22:50.524Z - info: [ui] [SignInStore] account resolved
+2023-12-08T12:22:50.525Z - info: [ui] [AppStore] adding account PhoenixStarYT (Koen Kist (PhoenixStarYT)) to store
+2023-12-08T12:22:50.539Z - error: [ui] Error adding account 'PhoenixStarYT'
+Error: The name org.freedesktop.secrets was not provided by any .service files
+2023-12-08T12:24:41.469Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 1 repositories took 1.4s of which 0.0s paused, total 1.4s
+2023-12-08T12:25:20.155Z - info: [ui] [AppStore] loading 2 repositories from store
+2023-12-08T12:25:20.703Z - error: [ui] Could not load new contents for syntax highlighting
+Error: EISDIR: illegal operation on a directory, read
+2023-12-08T12:25:21.057Z - info: [ui] launching: 3.3.3-linux2 (Linux 6.6.4-arch1-1)
+2023-12-08T12:25:21.058Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2023-12-08T12:25:47.527Z - info: [ui] [SignInStore] initializing OAuth flow
+2023-12-08T12:25:47.531Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo%20user%20workflow&state=9ece2cc5-f968-4379-80e9-3af098258252
+2023-12-08T12:25:51.832Z - info: [main] Received possible protocol arguments: 3
+2023-12-08T12:25:51.837Z - info: [main] Processing protocol url
+2023-12-08T12:25:51.839Z - info: [ui] [Dispatcher] requesting authenticated user
+2023-12-08T12:25:52.442Z - info: [main] Received possible protocol arguments: 2
+2023-12-08T12:25:52.457Z - info: [main] Processing protocol url
+2023-12-08T12:25:53.035Z - info: [ui] [SignInStore] account resolved
+2023-12-08T12:25:53.035Z - info: [ui] [AppStore] adding account PhoenixStarYT (Koen Kist (PhoenixStarYT)) to store
+2023-12-08T12:26:02.650Z - info: [ui] Subscribed 'PhoenixStarYT' to Alive channel
+2023-12-08T12:26:08.401Z - error: [ui] `git commit -F -` exited with an unexpected code: 1.
+stdout:
+On branch main
+Your branch is ahead of 'origin/main' by 2 commits.
+  (use "git push" to publish your local commits)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	dotconfig/hyprland/
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+2023-12-08T12:26:08.401Z - info: [ui] [Timing] Action 'create commit' for 'koenarch-bspwm' took 0.184s
+2023-12-08T12:26:31.582Z - info: [ui] No submodules found. Skipping "git submodule status"
+2023-12-08T12:26:37.803Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: koenarch-bspwm - PhoenixStarYT (has token)
+2023-12-08T12:26:39.535Z - info: [ui] [BranchPruner] No branches to prune.
+2023-12-08T12:26:42.078Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: KoenArch-BSPWM - PhoenixStarYT (has token)
+2023-12-08T12:26:42.531Z - error: [ui] `git -c credential.helper= push origin main:main --progress` exited with an unexpected code: 1.
+stderr:
+To https://github.com/phoenixstaryt/koenarch-bspwm
+ ! [rejected]          main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/phoenixstaryt/koenarch-bspwm'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+(The error was parsed as 10: The repository has been updated since you last pulled. Try pulling before pushing.)
+2023-12-08T12:27:09.620Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 1 repositories took 0.4s of which 0.0s paused, total 0.4s
+2023-12-08T12:27:16.527Z - error: [ui] Could not load new contents for syntax highlighting
+Error: EISDIR: illegal operation on a directory, read
+2023-12-08T12:27:17.028Z - info: [ui] [BranchPruner] No branches to prune.
+2023-12-08T12:27:24.668Z - info: [ui] Executing getChangesFiles: git log 111d86fa964610d825fda62c912b6baa7db6796d -C -M -m -1 --no-show-signature --first-parent --raw --format=format: --numstat -z -- (took 7.928s)
+2023-12-08T12:30:34.855Z - info: [ui] [AppStore.getAccountForRemoteURL] account found for remote: https://github.com/PhoenixStarYT/KoenArch-BSPWM.git - PhoenixStarYT (has token)
+2023-12-08T12:31:36.022Z - info: [ui] Executing clone: git -c credential.helper= -c init.defaultBranch=main clone --recursive --progress -- https://github.com/PhoenixStarYT/KoenArch-BSPWM.git /home/koen/Documents/GitHub/KoenArch-BSPWM (took 61.164s)
+2023-12-08T12:31:36.060Z - info: [ui] [AppStore] adding repository at /home/koen/Documents/GitHub/KoenArch-BSPWM to store
+2023-12-08T12:31:36.878Z - info: [ui] [BranchPruner] Last prune took place 5 minutes ago - skipping

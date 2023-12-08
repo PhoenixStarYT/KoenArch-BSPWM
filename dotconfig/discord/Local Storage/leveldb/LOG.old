@@ -1,0 +1,17 @@
+2023/12/06-11:35:13.449 434c Reusing MANIFEST /home/koen/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2023/12/06-11:35:13.453 434c Recovering log #491
+2023/12/06-11:35:13.455 434c Reusing old log /home/koen/.config/discord/Local Storage/leveldb/000491.log 
+2023/12/06-11:42:50.749 49c6 Level-0 table #495: started
+2023/12/06-11:42:50.780 49c6 Level-0 table #495: 2779502 bytes OK
+2023/12/06-11:42:50.788 49c6 Delete type=0 #491
+2023/12/06-11:42:50.790 49c6 Compacting 4@0 + 2@1 files
+2023/12/06-11:42:50.834 49c6 Generated table #496@0: 33 keys, 2710046 bytes
+2023/12/06-11:42:50.867 49c6 Generated table #497@0: 115 keys, 1836816 bytes
+2023/12/06-11:42:50.867 49c6 Compacted 4@0 + 2@1 files => 4546862 bytes
+2023/12/06-11:42:50.874 49c6 compacted to: files[ 0 2 1 0 0 0 0 ]
+2023/12/06-11:42:50.875 49c6 Delete type=2 #488
+2023/12/06-11:42:50.875 49c6 Delete type=2 #484
+2023/12/06-11:42:50.875 49c6 Delete type=2 #490
+2023/12/06-11:42:50.875 49c6 Delete type=2 #485
+2023/12/06-11:42:50.875 49c6 Delete type=2 #495
+2023/12/06-11:42:50.875 49c6 Delete type=2 #492

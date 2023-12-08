@@ -1,0 +1,34 @@
+2023/08/07-13:09:46.219 16bd Reusing MANIFEST /home/koen/.config/whatsapp-nativefier-d40211/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/07-13:09:46.219 16bd Recovering log #146
+2023/08/07-13:09:46.226 16bd Reusing old log /home/koen/.config/whatsapp-nativefier-d40211/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000146.log 
+2023/08/07-13:10:06.321 16ee Level-0 table #154: started
+2023/08/07-13:10:06.363 16ee Level-0 table #154: 1396763 bytes OK
+2023/08/07-13:10:06.374 16ee Delete type=0 #146
+2023/08/07-13:10:06.388 16ee Compacting 1@1 + 4@2 files
+2023/08/07-13:10:06.510 16ee Generated table #155@1: 76797 keys, 2222732 bytes
+2023/08/07-13:10:06.569 16ee Generated table #156@1: 14939 keys, 2228714 bytes
+2023/08/07-13:10:06.639 16ee Generated table #157@1: 17969 keys, 2218030 bytes
+2023/08/07-13:10:06.741 16ee Generated table #158@1: 84821 keys, 2184232 bytes
+2023/08/07-13:10:06.741 16ee Compacted 1@1 + 4@2 files => 8853708 bytes
+2023/08/07-13:10:06.743 16ee compacted to: files[ 0 0 4 0 0 0 0 ]
+2023/08/07-13:10:29.513 16ae Level-0 table #160: started
+2023/08/07-13:10:29.556 16ae Level-0 table #160: 1230858 bytes OK
+2023/08/07-13:10:29.564 16ae Delete type=2 #151
+2023/08/07-13:10:29.564 16ae Delete type=2 #148
+2023/08/07-13:10:29.564 16ae Delete type=0 #153
+2023/08/07-13:10:29.564 16ae Delete type=2 #154
+2023/08/07-13:10:29.564 16ae Delete type=2 #150
+2023/08/07-13:10:29.564 16ae Delete type=2 #149
+2023/08/07-13:10:29.572 16ae Compacting 1@1 + 4@2 files
+2023/08/07-13:10:29.641 16ae Generated table #161@1: 65075 keys, 2206537 bytes
+2023/08/07-13:10:29.681 16ae Generated table #162@1: 28200 keys, 2239370 bytes
+2023/08/07-13:10:29.724 16ae Generated table #163@1: 18454 keys, 2221581 bytes
+2023/08/07-13:10:29.804 16ae Generated table #164@1: 72506 keys, 2213293 bytes
+2023/08/07-13:10:29.817 16ae Generated table #165@1: 14974 keys, 332392 bytes
+2023/08/07-13:10:29.817 16ae Compacted 1@1 + 4@2 files => 9213173 bytes
+2023/08/07-13:10:29.819 16ae compacted to: files[ 0 0 5 0 0 0 0 ]
+2023/08/07-13:10:29.819 16ae Delete type=2 #157
+2023/08/07-13:10:29.819 16ae Delete type=2 #158
+2023/08/07-13:10:29.819 16ae Delete type=2 #160
+2023/08/07-13:10:29.819 16ae Delete type=2 #155
+2023/08/07-13:10:29.819 16ae Delete type=2 #156

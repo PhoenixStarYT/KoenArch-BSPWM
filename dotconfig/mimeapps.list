@@ -1,0 +1,6 @@
+[Default Applications]
+x-scheme-handler/msteams=teams.desktop
+x-scheme-handler/etcher=balena-etcher.desktop
+
+[Added Associations]
+application/x-7z-compressed=xarchiver.desktop;

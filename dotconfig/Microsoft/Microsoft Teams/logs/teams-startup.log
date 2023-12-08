@@ -1,0 +1,6 @@
+Error while parsing hooks JSON. Error: ENOENT: no such file or directory, open '/home/koen/.config/Microsoft/Microsoft Teams/hooks.json'
+(node:766) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+
+(teams:766): Gtk-WARNING **: 11:22:27.415: Theme parsing error: gtk.css:7661:22: 'shadow_4' is not a valid color name
+(node:766) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 ecsSettingsUpdated listeners added to [EventEmitter]. Use emitter.setMaxListeners() to increase limit
+(node:766) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 appInitialized listeners added to [EventEmitter]. Use emitter.setMaxListeners() to increase limit
