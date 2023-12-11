@@ -25,8 +25,8 @@ makepkg -si
 
 #Update and install Essential Packages
 yay -Syu
-yay -S neovim unzip picom bspwm awesome openbox polybar lxsession lxpanel lightdm rofi kitty terminator thunar flameshot neofetch sxhkd git lxpolkit lxappearance xorg firefox pulseaudio pavucontrol i3-wm xarchiver
-yay -S tar papirus-icon-theme nitrogen lxappearance breeze noto-color-emoji-fontconfig fonts-firacode font-awesome libqt5svg5 qml-module-qtquick-controls qml-module-qtquick-controls2 variety ocs-url
+sudo pacman -S neovim unzip picom bspwm awesome openbox polybar lxsession lxpanel lightdm rofi kitty terminator thunar flameshot neofetch sxhkd git lxpolkit lxappearance xorg firefox pulseaudio pavucontrol i3-wm xarchiver
+sudo pacman -S tar papirus-icon-theme nitrogen lxappearance breeze noto-color-emoji-fontconfig fonts-firacode font-awesome libqt5svg5 qml-module-qtquick-controls qml-module-qtquick-controls2 variety ocs-url
 
 # Personal packages (add or remove any that you don't want/need
 yay -S telegram-desktop discord steam teams dosbox github-desktop gnome-keyring gnome-boxes dunst 
